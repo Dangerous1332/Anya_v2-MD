@@ -49,9 +49,9 @@ let badWords = [
 
 global.message = {
     success: "✅ 𝚂𝚞𝚌𝚌𝚎𝚜𝚜! 𝙾𝚙𝚛𝚊𝚝𝚒𝚘𝚗 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍.",
-    admin: "*👤 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- Dear, this command is only for Admins. You have to be a admin in this group to use this command.",
-    botAdmin: "*🤖 B𝙾𝚃 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- I'm not an Admin, so I can't execute this command in this group. Please make me an Admin.",
-    owner: "*👑 O𝚆𝙽𝙴𝚁 N𝙴𝙴𝙴𝙳𝙴𝙳!*\n\n- Bruh, this command is only made for this bot's owner. So you can't use this command.",
+    admin: "*👤 sʜᴀɴɪ__ʜᴜɴ__ʏᴀʀᴡ!*\n\n- Dear, this command is only for Admins. You have to be a admin in this group to use this command.",
+    botAdmin: "*🤖 B𝙾𝚃 A𝙳𝙼𝙸𝙽 Shani!*\n\n- I'm not an Admin, so I can't execute this command in this group. Please make me an Admin.",
+    owner: "*👑 O𝚆𝙽𝙴𝚁 Shani_Rajput!*\n\n- Bruh, this command is only made for this bot's owner. So you can't use this command.",
     group: "*👥 G𝚛𝚘𝚞𝚙 N𝚎𝚎𝚍𝚎𝚍!*\n\n- This command can only be executed in a group chat.",
     private: 'This command is only for private chats.',
     wait: '🔄 Processing request...',
@@ -63,15 +63,15 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  botname: process.env.BotName || "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*", 
+  author: process.env.Author || "@",
+  packname: process.env.PackName || "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  footer: process.env.Footer || "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*",
   prefa: process.env.Prefix || ['-'],
-  themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  themeemoji: process.env.ThemeEmoji || "💗",
+  ownername: process.env.Owner_Name || "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*",
+  ownernumber: process.env.Owner_Number || "923046894355",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
@@ -105,15 +105,15 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.botname = process.env.BotName || "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*" 
+global.author = process.env.Author || "@" 
+global.packname = process.env.PackName || "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
+global.ownername = process.env.Owner_Name || "*✮°⏜⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸⏜°✮*" 
+global.ownernumber = process.env.Owner_Number || "923046894355" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
